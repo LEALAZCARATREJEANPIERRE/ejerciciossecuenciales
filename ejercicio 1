@@ -1,0 +1,6 @@
+ // PROGRAMA QUE TE VA A SALUDAR 
+Proceso Bienvenida
+  ESCRIBIR "HOLA CUAL ES TU  NOMBRE"
+  LEER NOMBRE
+  ESCRIBIR "mucho gusto ", NOMBRE, " es un placer conocerte :D, binvenido al curso 10-5 "
+FinProceso
